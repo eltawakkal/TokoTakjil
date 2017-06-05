@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.eltawakkal.tokotakjil.MainActivity">
+
+
+    <item
+        android:id="@+id/action_food"
+        android:icon="@drawable/food"
+        android:title="Food"/>
+
+    <item
+        android:id="@+id/action_drink"
+        android:icon="@drawable/drink"
+        android:title="Drink" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:title="Hapus"
+        android:icon="@drawable/ic_remove_shopping_cart_black_24dp"/>
+</menu>
